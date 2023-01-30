@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "address": "Kulas Light",
+      "contact": "0752145623"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "address": "Hoeger Mall",
+      "contact": "0785272066"
+    },
+    {
+      "name": "Isuru",
+      "email": "isurug27@gmail.com",
+      "contact": "0755375316",
+      "address": "Springvalley",
+      "id": 5
+    },
+    {
+      "name": "Nethmi",
+      "email": "nethmip27@gmail.com",
+      "contact": "0752418375",
+      "address": "Badulla",
+      "id": 6
+    }
+  ]
+}
